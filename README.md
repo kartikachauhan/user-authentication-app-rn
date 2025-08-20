@@ -3,8 +3,6 @@
 A simple **authentication flow** built with **React Native (Expo)**, **React Context API**, and **React Navigation**.  
 It demonstrates login, signup, logout, and session persistence using AsyncStorage.
 
----
-
 ## ✨ Features
 
 - **Auth Context (Context API)**
@@ -41,8 +39,6 @@ It demonstrates login, signup, logout, and session persistence using AsyncStorag
 - **Screens** → UI and form validation for login, signup, and home.
 - **TextField.js** → Input component with error state and password eye toggle.
 - **validation.js** → Simple email validator.
-
----
 
 ## 🚀 Getting Started
 
