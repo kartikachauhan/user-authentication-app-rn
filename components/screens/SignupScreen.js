@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, Alert } from 'react-native';
-import TextField from './TextField';
+import TextField from '../common/TextField';
 import { isEmail } from '../utils/validation';
 import { useAuth } from '../context/AuthContext';
 
