@@ -71,8 +71,9 @@ npx expo install expo-vector-icons
 # 4) Start project
 npm run start
 # Then press: a (Android), i (iOS on Mac), or w (Web)
+```
 
-🔐 Demo Authentication
+### Demo Authentication
 
     1. Login → Accepts any email with password secret123
 
@@ -80,7 +81,7 @@ npm run start
 
     3. No backend included yet → AuthContext contains mock logic
 
-🛠 Tech Stack
+### Tech Stack
 
     1. React Native (Expo)
 
@@ -92,7 +93,7 @@ npm run start
 
     5. expo-vector-icons (eye icon for password toggle)
 
-✅ Requirement Coverage
+### Requirement Coverage
 
     1. Auth Context → AuthContext.js (login, signup, logout, user state)
 
